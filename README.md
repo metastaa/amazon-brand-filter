@@ -10,7 +10,7 @@ You can add any keyword filters with the red 'block' button in the lower right c
 This open source plugin is very reliable. It only changes CSS codes, cannot access cookies, and cannot collect information about you. It can be used without logging into your Amazon account.
 
 you can install from firefox addons:
-https://addons.mozilla.org/en-US/firefox/addon/amazon-brand-filter/versions/
+https://addons.mozilla.org/en-US/firefox/addon/amazon-brand-filter/
 <img width="1582" alt="Screenshot 2025-03-13 at 06 01 18" src="https://github.com/user-attachments/assets/eefea141-7fb2-4c5d-bbf1-48a1697466ea" />
 ![image](https://github.com/user-attachments/assets/37cad73f-026c-439d-b31c-0573ad79a7d4)
 
